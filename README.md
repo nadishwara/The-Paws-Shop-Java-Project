@@ -1,15 +1,20 @@
-Pet Supply Store Management System - Java Project
-Project Overview
+<h1>Pet Supply Store Management System - Java Project</h1>
 
-This project is a Java-based management system for a pet supply store, developed as part of a university assignment. The system streamlines store operations by automating inventory management, user access control, and supplier handling. This project emphasizes object-oriented programming principles and demonstrates role-based access control.
-Features
+<h2>Project Overview</h2>
 
-    User Login and Role-Based Access:
-        Cashier: View and manage products, assist with customer purchases.
-        Manager: Access all cashier functions plus manage suppliers and cashier accounts.
-    Product and Inventory Management: Organize products into categories (e.g., toys, food, grooming items).
-    Supplier Management: Managers can add, view, and update supplier information.
-    Purchase and Payment Processing: Supports cash-on-delivery and online payment with OTP verification for added security.
+<P>This project is a Java-based management system for a pet supply store, developed as part of a university assignment. The system streamlines store operations by automating inventory management, user access control, and supplier handling. This project emphasizes object-oriented programming principles and demonstrates role-based access control.</P>
+
+
+<h3>Features</h3>
+<b>User Login and Role-Based Access:</b> </br>
+</br>
+
+<b>Cashier:</b> View and manage products, assist with customer purchases.</br>
+        
+<b>Manager:</b> Access all cashier functions plus manage suppliers and cashier accounts.</br>
+<b>Product and Inventory Management:</b> Organize products into categories (e.g., toys, food, grooming items).</br>
+<b>Supplier Management:</b> Managers can add, view, and update supplier information.</br>
+<b> Purchase and Payment Processing:</b> Supports cash-on-delivery and online payment with OTP verification for added security.</br>
 
 System Requirements
 
