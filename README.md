@@ -9,8 +9,7 @@
 <b>User Login and Role-Based Access:</b> </br>
 </br>
 
-<b>Cashier:</b> View and manage products, assist with customer purchases.</br>
-        
+<b>Cashier:</b> View and manage products, assist with customer purchases.      
 <b>Manager:</b> Access all cashier functions plus manage suppliers and cashier accounts.</br>
 <b>Product and Inventory Management:</b> Organize products into categories (e.g., toys, food, grooming items).</br>
 <b>Supplier Management:</b> Managers can add, view, and update supplier information.</br>
@@ -22,17 +21,17 @@ System Requirements
     Java IDE: (NetBeans, Eclipse, or IntelliJ recommended)
     Git: For version control (optional, but recommended)
 
-Setup and Installation
+<b>Setup and Installation</b></br>
 
-    Clone the Repository:
+Clone the Repository:
 
     bash
 
     git clone https://github.com/username/pet-supply-store-management.git
 
-    Open in Java IDE: Import the project in your preferred Java IDE.
-    Build and Run: Compile and run the project to explore its features.
-
+<p><b>Open in Java IDE:</b> Import the project in your preferred Java IDE.</br>
+<b>Build and Run:</b> Compile and run the project to explore its features.
+</p>
 User Roles and Functionalities
 Cashier
 
