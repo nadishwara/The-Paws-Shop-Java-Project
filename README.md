@@ -15,11 +15,11 @@
 <b>Supplier Management:</b> Managers can add, view, and update supplier information.</br>
 <b> Purchase and Payment Processing:</b> Supports cash-on-delivery and online payment with OTP verification for added security.</br>
 
-System Requirements
+<b>System Requirements</b>
 
-    Java Development Kit (JDK): Version 8 or higher
-    Java IDE: (NetBeans, Eclipse, or IntelliJ recommended)
-    Git: For version control (optional, but recommended)
+Java Development Kit (JDK): Version 8 or higher</br>
+Java IDE: (NetBeans, Eclipse, or IntelliJ recommended)</br>
+Git: For version control (optional, but recommended)</br>
 
 <b>Setup and Installation</b></br>
 
@@ -32,34 +32,35 @@ Clone the Repository:
 <p><b>Open in Java IDE:</b> Import the project in your preferred Java IDE.</br>
 <b>Build and Run:</b> Compile and run the project to explore its features.
 </p>
-User Roles and Functionalities
-Cashier
 
-    View Products: Access detailed information on all products and categories.
-    Add Products: Add new products to the inventory with appropriate categories.
-    Process Purchases: Assist customers with purchasing products.
+<h3>User Roles and Functionalities</h3>
+<b>Cashier</b></br>
+</br>
+<b>View Products:</b> Access detailed information on all products and categories.</br>
+<b>Add Products:</b> Add new products to the inventory with appropriate categories.</br>
+<b>Process Purchases:</b> Assist customers with purchasing products.</br>
 
-Manager
+</br>
+<b>Manager</b></br>
 
-    Manage Users: Create new accounts for cashiers.
-    Supplier Management: Add, view, and update supplier details for better stock management.
+</br><b>Manage Users:</b> Create new accounts for cashiers.</br>
+<b>Supplier Management:</b> Add, view, and update supplier details for better stock management.</br>
 
-System Architecture
+<b>System Architecture</b></br>
+</br>
+The project is structured with core Java classes that reflect the object-oriented approach, including classes for User, Product, Supplier, and Purchase. Managers and cashiers interact with the system based on their specific roles, ensuring controlled access.</br>
+</br><h3>UML Diagrams</h3>
 
-The project is structured with core Java classes that reflect the object-oriented approach, including classes for User, Product, Supplier, and Purchase. Managers and cashiers interact with the system based on their specific roles, ensuring controlled access.
-UML Diagrams
+For detailed architecture and design, refer to the UML diagrams included in the docs/ folder:</br>
+</br>
+<b>Class Diagram:</b> Shows the relationships between main classes.</br>
+<b>ER Diagram:</b> Outlines database entities and relationships.
 
-For detailed architecture and design, refer to the UML diagrams included in the docs/ folder:
-
-    Class Diagram: Shows the relationships between main classes.
-    ER Diagram: Outlines database entities and relationships.
-
-Future Enhancements
-
-    Inventory Tracking: Add low-stock notifications and automated reordering.
-    Reporting: Include sales reports and inventory summaries for managers.
-    Enhanced Security: Implement additional user verification steps for sensitive actions.
-
-Contributing
-
+<h3>Future Enhancements</h3>
+</br>
+<b>Inventory Tracking:</b> Add low-stock notifications and automated reordering.</br>
+<b>Reporting:</b> Include sales reports and inventory summaries for managers.</br>
+<b>Enhanced Security:</b> Implement additional user verification steps for sensitive actions.</br>
+</br>
+<b>Contributing</b>
 Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request.
