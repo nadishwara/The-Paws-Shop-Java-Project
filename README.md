@@ -50,14 +50,19 @@ Clone the Repository:
 </br>
 The project is structured with core Java classes that reflect the object-oriented approach, including classes for User, Product, Supplier, and Purchase. Managers and cashiers interact with the system based on their specific roles, ensuring controlled access.</br>
 </br><h3>UML Diagrams</h3>
+</br>
+<b>Use Case</b></br>
+</br>
 ![image](https://github.com/user-attachments/assets/111f196e-2f49-4512-a686-a3626ee5bb18)
 
 For detailed architecture and design, refer to the UML diagrams included in the docs/ folder:</br>
 </br>
 <b>Class Diagram:</b> Shows the relationships between main classes.</br>
+</br>
 ![image](https://github.com/user-attachments/assets/281522d9-f9a8-4142-9cff-91f2a08db1b7)
 
-<b>ER Diagram:</b> Outlines database entities and relationships.
+<b>ER Diagram:</b> Outlines database entities and relationships.</br>
+</br>
 ![image](https://github.com/user-attachments/assets/39fba431-d3ca-47ba-99da-ba601d380054)
 
 
